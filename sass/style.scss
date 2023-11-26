@@ -5,8 +5,28 @@
 
 
 html {
-    width: 100%;
+    width: $full-size;
 
+    padding: $zero;
+    margin: $zero;
+}
+
+body {
+    padding: $zero;
+    margin: $zero;
+}
+
+header {
+    padding: $zero;
+    margin: $zero;
+}
+
+main {
+    padding: $zero;
+    margin: $zero;
+}
+
+footer {
     padding: $zero;
     margin: $zero;
 }
