@@ -9,6 +9,7 @@
 *.css diff=css eol=lf
 *.scss diff=css eol=lf
 *.map diff=map eol=lf
+*.js diff=js eol=lf
 
 
 # Git attributes
