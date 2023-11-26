@@ -4,12 +4,14 @@
 *.sh diff=sh eol=lf
 
 *.html diff=html eol=lf
+*.js diff=js eol=lf
+
 *.svg diff=svg eol=lf
 
-*.css diff=css eol=lf
 *.scss diff=css eol=lf
+*.css diff=css eol=lf
+
 *.map diff=map eol=lf
-*.js diff=js eol=lf
 
 
 # Git attributes
