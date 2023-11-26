@@ -6,6 +6,9 @@
 *.html diff=html eol=lf
 *.svg diff=svg eol=lf
 
+*.css diff=css eol=lf
+*.scss diff=css eol=lf
+
 # Git attributes
 .gitignore text eol=lf
 .gitattributes text eol=lf
