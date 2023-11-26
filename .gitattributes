@@ -8,6 +8,8 @@
 
 *.css diff=css eol=lf
 *.scss diff=css eol=lf
+*.map diff=map eol=lf
+
 
 # Git attributes
 .gitignore text eol=lf
