@@ -33,6 +33,18 @@ img {
   object-fit: cover;
 }
 
+#cover {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #c23616;
+}
+
+header {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
 html {
   width: 100%;
   padding: 0;
@@ -42,12 +54,6 @@ html {
 body {
   padding: 0;
   margin: 0;
-}
-
-header {
-  padding: 0;
-  margin: 0;
-  width: 100%;
 }
 
 main {
@@ -60,12 +66,6 @@ footer {
   padding: 0;
   margin: 0;
   width: 100%;
-}
-
-#cover {
-  width: 100%;
-  min-height: 100vh;
-  background-color: #c23616;
 }
 
 /*# sourceMappingURL=style.css.map */

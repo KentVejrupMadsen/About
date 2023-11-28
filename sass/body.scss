@@ -1,35 +1,5 @@
-html {
-    width: $full-size;
-    
-    padding: $zero;
-    margin: $zero;
-}
 
-body {
-    padding: $zero;
-    margin: $zero;
-}
 
-header {
-    padding: $zero;
-    margin: $zero;
-
-    width: $full-size;
-}
-
-main {
-    padding: $zero;
-    margin: $zero;
-
-    width: $full-size;
-}
-
-footer {
-    padding: $zero;
-    margin: $zero;
-
-    width: $full-size;
-}
 
 #cover {
     width: $full-size;
@@ -37,3 +7,9 @@ footer {
 
     background-color: $empty_container;
 }
+
+@import './body/header.scss';
+@import './body/main.scss';
+@import './body/footer.scss';
+
+@import './body/queries.scss';
