@@ -62,7 +62,7 @@ footer {
 
 #cover {
   width: 100%;
-  min-height: 100vh;
+  max-height: 100vh;
   background-color: #c23616;
   overflow: hidden;
 }
