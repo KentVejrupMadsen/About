@@ -3,13 +3,7 @@
 @import './body/footer.scss';
 
 #cover {
-    width: $full-size;
-    max-height: 100vh;
-
     background-color: $empty_container;
-    overflow: hidden;
 }
-
-
 
 @import './body/queries.scss';
