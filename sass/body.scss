@@ -1,21 +1,37 @@
 html {
     width: $full-size;
+    
+    padding: $zero;
+    margin: $zero;
+}
+
+body {
+    padding: $zero;
+    margin: $zero;
 }
 
 header {
     border-bottom: 1px solid gray;
     
+    padding: $zero;
+    margin: $zero;
+
     width: $full-size;
 }
 
 main {
-    
+    padding: $zero;
+    margin: $zero;
+
     width: $full-size;
 }
 
 footer {
     border-top: 1px solid gray;
     
+    padding: $zero;
+    margin: $zero;
+
     width: $full-size;
 }
 
