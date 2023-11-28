@@ -4,10 +4,10 @@
 
 #cover {
     width: $full-size;
-
     min-height: 100vh;
 
     background-color: $empty_container;
+    overflow: hidden;
 }
 
 
