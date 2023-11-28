@@ -1,23 +1,27 @@
 html {
-
+    width: $full-size;
 }
 
 header {
     border-bottom: 1px solid gray;
+    
     width: $full-size;
 }
 
 main {
+    
     width: $full-size;
 }
 
 footer {
     border-top: 1px solid gray;
+    
     width: $full-size;
 }
 
 #cover {
-    width: 100%;
+    width: $full-size;
+
     height: 500px;
     background-color: $empty_container;
 }
