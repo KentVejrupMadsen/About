@@ -1,15 +1,15 @@
-
-
+@import './body/header.scss';
+@import './body/main.scss';
+@import './body/footer.scss';
 
 #cover {
     width: $full-size;
+
     min-height: 100vh;
 
     background-color: $empty_container;
 }
 
-@import './body/header.scss';
-@import './body/main.scss';
-@import './body/footer.scss';
+
 
 @import './body/queries.scss';
