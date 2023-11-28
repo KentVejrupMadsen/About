@@ -7,3 +7,24 @@ $half-size: 50%;
 $no-size: 0%;
 
 
+ul {
+
+}
+
+ol {
+
+}
+
+li {
+
+}
+
+img {
+    width: $full-size;
+    height: $full-size;
+
+    margin-left: auto;
+    margin-bottom: auto;
+
+    object-fit: cover;
+}
